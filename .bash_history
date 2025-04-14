@@ -123,3 +123,11 @@ git push -u origin main
 npm run deploy
 git push -u origin main
 npm run deploy
+git remote add origin https://github.com/lucaslee12345/vitereactlucas.git
+git add .
+git commit -m "initial commit"
+git branch -M main
+git push-u origin main
+git push -u origin main
+npm run deploy
+npm run deploy
